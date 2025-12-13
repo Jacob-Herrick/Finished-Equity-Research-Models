@@ -5,6 +5,6 @@ Financial Models & Research (.xls , .pdf , .docx)
 
 Use ticker format for company search
 
-Pikers be gone ... don't just download the models ... comprehension of public equities comes from modelling for yourself ... use for insights and a template to get started ... 
+Pikers be gone ... don't just download ... comprehension of public equities comes from modelling for yourself ... use for insights and a template to get started ... 
 
 Have thoughts or feedback? Feel free to reach out! Always happy to discuss equity research with analysts.
